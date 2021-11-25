@@ -84,7 +84,7 @@ function my_simple_crypt( $string, $action = 'e' ) {
 </div>
 </div>
 <div class="card" id="supported">
-<div class="card-head">Supported File Host</div>
+<div class="card-head">Result Link</div>
 <div class="card-body">
 <textarea class="form-control" readonly>
 <?php if($iframeid){echo '/download/?id='.$iframeid.'</textarea>';?></textarea><br/>
