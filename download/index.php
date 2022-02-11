@@ -65,7 +65,7 @@ if($_GET['id'] != ""){
 		}?>
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <title><?php echo $json_data["title"]; ?> - Google Drive</title>
-<link rel="stylesheet" href="https://rawcdn.githack.com/yusepjaelani861/Library-JS/e657f9b60072a7edf8be8f1eeb29f8042202a1cb/lib/style.css">
+<link rel="stylesheet" href="/lib/style.css">
 <meta name="referrer" content="no-referrer">
 <link rel="shortcut icon" type="image/png" href="favicon.png" />
 <meta name="robots" content="noindex" />
